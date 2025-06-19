@@ -1,0 +1,6 @@
+Flask
+opencv-python
+imutils
+tensorflow
+numpy
+Pillow
